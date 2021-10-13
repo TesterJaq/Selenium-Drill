@@ -1,0 +1,8 @@
+<suite name="Parallel test suite" parallel="tests">
+<test name="Firefox Test">
+<parameter name="browser" value="Chrome"/>
+<classes>
+<class name="com.selenium.assignment.Assignment"/>
+</classes>
+</test>
+</suite>
