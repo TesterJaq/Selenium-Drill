@@ -20,7 +20,7 @@
         <configuration>
           <forkCount>0</forkCount>
           <suiteXmlFiles>
-            <suiteXmlFile>testngl.xml</suiteXmlFile>
+            <suiteXmlFile>testngDrill.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
